@@ -131,6 +131,51 @@ body{
     margin: 30px;
 }
 
+#projectWork h1{
+    padding-top:50px;
+    color: #000;
+    text-align: center;
+    font-family: sans-serif;
+}
+#projectWork span{
+    color: #8e1515;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+.project1{
+    height: 250px;
+    width: 20%;
+    float: left;
+    margin-left: 18%;
+}
+.project1 img{
+    width: 400px;
+    height:250px;
+}
+.project1 a{
+    text-decoration: none;
+    color: black
+}
+.project2 a{
+    text-decoration: none;
+    color: #000;
+}
+.project2{
+    height: 250px;
+    width: 20%;
+    float: left;
+    margin-left: 18%;
+}
+.project2 img{
+    width: 400px;
+    height:250px;
+}
+#projectWork h3{
+    font-size: 25px;
+    margin-left: 150px;
+    font-weight: bold;
+}
+
 .container {
     width: 90%;
     background-color: #ddd;
@@ -141,7 +186,8 @@ body{
     color: white;
   }
   #data{
-      margin-left: 200px;
+    margin-left: 360px;
+    width: 60%;
   }
   
   .html {
@@ -337,5 +383,3 @@ body{
    display: inline-block;
    
 }
-
-
